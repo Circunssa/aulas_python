@@ -1,2 +1,0 @@
-# Comentario somente 1 linha <==== comentario somente 1 linha
-"""   """  or ''' '''<===== Docstrings como comentario mais de 1 linha
